@@ -1,5 +1,8 @@
 Need to have mysql installed in the system to run the script
 
+Objectives of the project:-
+To move the data from a csv file to Mysql database after cleaning the data in Python. The csv file contains 45000+ entries.
+
 Column information:
 1 - age (numeric)
 2 - job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
