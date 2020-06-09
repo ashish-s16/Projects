@@ -1,6 +1,9 @@
 This is a Machine Learning project of predicting the price of the house if we have details like number of rooms, crime rate of town, pupil teacher ration in town etc.
-	Please see the Analysis file to understand step by step how the analysis was done. 
-	Please use scrip file to run the script, the model will import the file, clean and train the file and later ask from data from user to predict price.
+
+Please see the Analysis file to understand step by step how the analysis was done. 
+
+Please use scrip file to run the script, the model will import the file, clean and train the file and later ask from data from user to predict price.
+
 The details of the columns are given below
 
 1. Title: Boston Housing Data
