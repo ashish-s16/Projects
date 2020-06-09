@@ -77,6 +77,6 @@ print("Predicting with below sample data ")
 print("")
 print(random_testing_row)
 
-print("predicting with an accuracy of", np.round(my_pipeline.score(testX, testY),2),"%")
+print("predicting with an accuracy of", np.round(my_pipeline.score(testX, testY),4)*100,"%")
 print("Price of house would be ", np.round(my_pipeline.predict(random_testing_row)[0],2),"millions")
 
