@@ -2,7 +2,7 @@ This is a Machine Learning project of predicting the price of the house if we ha
 
 Please see the Analysis file to understand step by step how the analysis was done. 
 
-Please use scrip file to run the script, the model will import the file, clean and train the file and later select a random row from test data and predict the price
+Please use script file to run the script, the model will import the file, clean and train the file and later select a random row from test data and predict the price
 The details of the columns are given below
 
 1. Title: Boston Housing Data
